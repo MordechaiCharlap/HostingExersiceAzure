@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'charlap'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_86A7AA1CB078423194B36B92C09FCEF1 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_76FA1B0613164857B44B7FEF237607AE }}
           package: .
